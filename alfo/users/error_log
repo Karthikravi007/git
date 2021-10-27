@@ -1,0 +1,56 @@
+[25-Sep-2021 12:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 49
+[25-Sep-2021 12:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 49
+[27-Sep-2021 10:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 99
+[27-Sep-2021 10:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 99
+[28-Sep-2021 05:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 99
+[28-Sep-2021 05:34:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 99
+[28-Sep-2021 05:35:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 99
+[28-Sep-2021 07:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 99
+[28-Sep-2021 07:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 50
+[28-Sep-2021 07:54:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 50
+[28-Sep-2021 07:54:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 50
+[28-Sep-2021 07:55:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 50
+[28-Sep-2021 07:55:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 50
+[28-Sep-2021 07:55:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/axtropro/alfonfx.com/users/investor.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/axtropro/alfonfx.com/users/investor.php on line 50
